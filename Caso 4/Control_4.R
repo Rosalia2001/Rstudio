@@ -1,7 +1,4 @@
 # PRACTICA 4
-# Choque Fernandez Dania /CI:10706137 
-# Martinez Alcoba Rosalia / CI:7112436
-# Martinez Maygua Andrea / CI:12689018
 
 # Pregunta 1
 # Una plataforma de intercambio de BITCOIN quiere estimar el tiempo promedio 
