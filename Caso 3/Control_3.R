@@ -1,7 +1,4 @@
 # CONTROL 3
-# Choque Fernandez Dania /CI:10706137 
-# Martinez Alcoba Rosalia / CI:7112436
-# Martinez Maygua Andrea / CI:12689018
 
 # EJERCICIO 1
 # Analizas una muestra aleatoria de sesiones de usuario y encuentras 
