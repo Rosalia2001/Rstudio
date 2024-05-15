@@ -1,8 +1,4 @@
 #PRACTICO 1
-#INTEGRANTES:
-#Choque Fernandez Dania /CI:10706137 
-#Martinez Alcoba Rosalia / CI:7112436
-#Martinez Maygua Andrea / CI:12689018
 
 #PREGUNTA 1
 #Una encuesta realizada en mayo de 2023 a clientes de un banco del país incluyó la
