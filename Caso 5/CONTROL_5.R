@@ -1,8 +1,4 @@
 # PRACTICA 5
-# Choque Fernandez Dania /CI:10706137 
-# Martinez Alcoba Rosalia / CI:7112436
-# Martinez Maygua Andrea / CI:12689018
-
 
 # EJERCICIO 1
 # Se está investigando si el rendimiento promedio diario de una nueva 
