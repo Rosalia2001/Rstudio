@@ -1,7 +1,4 @@
 # CONTROL 6
-# Choque Fernandez Dania /CI:10706137 
-# Martinez Alcoba Rosalia / CI:7112436
-# Martinez Maygua Andrea / CI:12689018
 
 # Suponga que una empresa financiera lo contrata como analista de datos para desarrollar 
 # un modelo que permita predecir el límite de crédito que se le otorgará a un cliente en 
