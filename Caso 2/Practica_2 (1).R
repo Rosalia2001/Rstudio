@@ -1,7 +1,4 @@
 # Practico 2
-# Choque Fernandez Dania /CI:10706137 
-# Martinez Alcoba Rosalia / CI:7112436
-# Martinez Maygua Andrea / CI:12689018
 
 # Ejercicio 1, Supongamos que el precio diario del Bitcoin (BTC) 
 # sigue una distribución normal con una media de $52000 y
